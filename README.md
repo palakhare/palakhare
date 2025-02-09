@@ -1,4 +1,4 @@
-- # 💫 About Me:
+- # 💫 HEYYAAA GUYZZZZ
 Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learning more about and studying: UI designing, open source and <br>languages.<br><br><br>Working hard and trying to push my limits of every opportunity. <br>I look forward to improve my skills at every turn.<br><br><br><br>
 
 
@@ -22,12 +22,12 @@ Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learnin
 [![](https://visitcount.itsvg.in/api?id=palakhare&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->👋 Hi, I’m @palakhare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in making and exploring new projects
+- 🌱 I’m currently learning UI designing and backend languages
+- 💞️ I’m looking to collaborate with projects here
+- 📫 How to reach me at palakkhare1310@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: You know we have more than 700 languages already in this world.....there's soo much more know right!!!
 
 <!---
 palakhare/palakhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
