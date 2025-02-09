@@ -1,5 +1,5 @@
-- # 💫 HEYYAAA GUYZZZZ
-Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learning more about and studying: UI designing, open source and <br>languages.<br><br><br>Working hard and trying to push my limits of every opportunity. <br>I look forward to improve my skills at every turn.<br><br><br><br>
+- # 💫 HEYY!!
+Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learning more about and studying: UI designing, open source and <br> backend languages.<br><br><br>Working hard and trying to push my limits of every opportunity. <br>I look forward to improve my skills at every turn.<br><br><br><br>
 
 
 ## 🌐 Socials:
