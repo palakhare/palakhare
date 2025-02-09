@@ -1,4 +1,4 @@
-- # 💫 HEYY!!
+ # 💫 HEYY!!
 Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learning more about and studying: UI designing, open source and <br> backend languages.<br><br><br>Working hard and trying to push my limits of every opportunity. <br>I look forward to improve my skills at every turn.<br><br><br><br>
 
 
@@ -27,7 +27,7 @@ Heyyy!!! <br>I'm Palak Khare<br>I'm currently: Learning as a student.<br>Learnin
 - 💞️ I’m looking to collaborate with projects here
 - 📫 How to reach me at palakkhare1310@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: You know we have more than 700 languages already in this world.....there's soo much more know right!!!
+- ⚡ Fun fact: You know we have more than 700 languages already in this world.....there's soo much more to know right!!!
 
 <!---
 palakhare/palakhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
